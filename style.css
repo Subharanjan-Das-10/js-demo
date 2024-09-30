@@ -1,0 +1,30 @@
+/* .red {
+    color:red ;
+}
+.blue {
+    color : blue;
+}
+.box {
+    border: solid black;
+    background-color: pink;
+}
+.btn_style{
+    background-color: blue;
+    color: white;
+}
+
+.h1_style{
+    color:purple;
+    text-decoration: underline;
+} */
+
+body {
+    text-align: center;
+
+}
+div {
+    height: 100px;
+    width: 500px;
+    border: solid black 2px;
+    margin: auto;
+}
